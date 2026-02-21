@@ -1,6 +1,6 @@
 // console.log('login')
 
-document.getElementById('login-btn').addEventListener('click', function(){
+document.getElementById('cashout-btn').addEventListener('click', function(){
     // console.log('login button clicked')
     // 1. get the mobile number
     const numberInput = document.getElementById('input-mobile');
